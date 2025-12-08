@@ -1,0 +1,7 @@
+{
+  "name": "SpendMate",
+  "description": "Smart expense tracking with OCR receipt scanning and AI-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
